@@ -1,0 +1,28 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Brenda Goodman",
+      "title": "Colonoscopies may not reduce cancer deaths, study finds -- but experts say you should still get one - CNN",
+      "description": "Colonoscopy may reduce the risk of dying of colorectal cancer by as much as 50%, but there's a catch: It only works if you get the scan.",
+      "url": "https://www.cnn.com/2022/10/09/health/colonoscopy-cancer-death-study/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221007192334-endoscope-stock.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-10-09T22:08:00Z",
+      "content": "Colonoscopy may reduce the risk of dying of colorectal cancer by as much as 50%, but theres a catch: It only works if you get the scan.\r\nThats the big takeaway message from the first randomized trial… [+9345 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Best Life" },
+      "author": "Lauren Gray",
+      "title": "Eating Too Much of This May Spike Your Liver Cancer Risk, New Study Says — Best Life - Best Life",
+      "description": "Eating too much of the refined fiber inulin has been linked with an increased risk of liver cancer—but only in certain people, experts say.",
+      "url": "https://bestlifeonline.com/inulin-fiber-liver-cancer-news/",
+      "urlToImage": "https://bestlifeonline.com/wp-content/uploads/sites/3/2018/02/liver-cancer-ribbon.jpg?quality=82&strip=all",
+      "publishedAt": "2022-10-09T11:03:10Z",
+      "content": "Increasingly, researchers are demystifying the many ways that our microbiome affects our broader health. \"Gut health is really important,\" registered dietitian Kristin Kirkpatrick, RD, tells the Clev… [+4867 chars]"
+    }
+  ]
+
+}
+

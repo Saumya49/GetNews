@@ -1,0 +1,120 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Lauren Simonds",
+      "title": "Last day to save hundreds on TC Sessions: Crypto passes",
+      "description": "We warned you this day would come. You have less than 24 hours left to save $250 on a General Admission pass to TC Sessions: Crypto — taking place in Miami on November 17. Our special launch pricing expires tonight at 11:59 pm PDT, so buy yours now — your wal…",
+      "url": "https://techcrunch.com/2022/10/12/last-day-to-save-hundreds-on-tc-sessions-crypto-passes/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/TC22_Sessions_Crypto_Wordpress_Header_Image_1200x628-2.png",
+      "publishedAt": "2022-10-12T16:30:49Z",
+      "content": "We warned you this day would come. You have less than 24 hours left to save $250 on a General Admission pass to TC Sessions: Crypto taking place in Miami on November 17. Our special launch pricing ex… [+2503 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Natasha Mascarenhas",
+      "title": "Oh look, TripActions raised at a $9.2B valuation after reported $12B IPO filing",
+      "description": "TripActions, a travel and expense management platform, has raised at a $9.2 billion valuation.",
+      "url": "https://techcrunch.com/2022/10/12/oh-look-tripactions-raised-at-a-9-2b-valuation-after-reported-12b-ipo-filing/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-157506557.jpg?resize=1200,712",
+      "publishedAt": "2022-10-12T16:29:41Z",
+      "content": "TripActions, a corporate travel and expenses company, has raised a combination of equity and debt at a post-money valuation of $9.2 billion, up from its prior valuation of $7.5 billion. The funding i… [+2419 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Aria Alamalhodaei",
+      "title": "Virgin Orbit and Rocket Lab gear up for launches on new continents",
+      "description": "Rocket Lab and Virgin Orbit are preparing for their inaugural flights in new countries, including the first ever orbital launch from the UK.",
+      "url": "https://techcrunch.com/2022/10/12/virgin-orbit-and-rocket-lab-gear-up-for-launches-on-new-continents/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/rocketlab-56.jpeg?resize=1200,704",
+      "publishedAt": "2022-10-12T16:00:40Z",
+      "content": "Virgin Orbit and Rocket Lab are expanding their launch capacities as each company gears up for inaugural missions from countries that they have never flown from.\r\nFor Rocket Lab, thats the United Sta… [+2683 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Kyle Wiggers",
+      "title": "Microsoft brings DALL-E 2 to the masses with Designer and Image Creator",
+      "description": "Microsoft is integrating OpenAI's DALL-E 2 image-generating system into several new first-part apps: Designer and Image Creator.",
+      "url": "https://techcrunch.com/2022/10/12/microsoft-brings-dall-e-2-to-the-masses-with-designer-and-image-creator/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-952061110.jpg?resize=1200,816",
+      "publishedAt": "2022-10-12T14:07:34Z",
+      "content": "Microsoft is making a major investment in DALL-E 2, OpenAI’s AI-powered system that generates images from text, by bringing it to first-party apps and services. During its Ignite conference this week… [+6477 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Kyle Wiggers",
+      "title": "Microsoft Teams gains animated avatars and AI-powered recaps",
+      "description": "At Ignite 2022, Microsoft announced new features heading to Teams, including AI-powered recaps and animated avatars.",
+      "url": "https://techcrunch.com/2022/10/12/microsoft-teams-gains-animated-avatars-and-ai-powered-recaps/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/Teams-Mesh-Avatar.png?resize=1200,673",
+      "publishedAt": "2022-10-12T02:21:46Z",
+      "content": "At its Ignite conference this week, Microsoft announced updates heading to Teams, its ever-evolving videoconferencing and workplace collaboration app. New avatars are available, and more details were… [+4559 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Frederic Lardinois",
+      "title": "Microsoft’s Edge browser gets shared Workspaces, new security features and more",
+      "description": "Microsoft is announcing a number of updates to its Edge browser today, including shared workspaces and security enhancements.",
+      "url": "https://techcrunch.com/2022/10/12/microsofts-edge-browser-gets-shared-workspaces-new-security-features-and-more/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1354846583.jpeg?resize=1200,900",
+      "publishedAt": "2022-10-11T22:21:12Z",
+      "content": "Its Microsoft Ignite this week and while a lot of the announcements this week target the kinds of IT professionals and admins who really need more deployment options for Azure Kubernetes Service thro… [+2201 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Kyle Wiggers",
+      "title": "Microsoft expands Azure OpenAI Service with DALL-E 2 in preview",
+      "description": "Angling to bring OpenAI's DALL-E 2 tech to more enterprise customers, Microsoft is deploying the system in Azure OpenAI Service, first in preview.",
+      "url": "https://techcrunch.com/2022/10/12/microsoft-expands-azure-openai-service-with-dall-e-2-in-preview/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1207074418.jpg?resize=1200,800",
+      "publishedAt": "2022-10-11T21:13:12Z",
+      "content": "When Azure OpenAI Service launched in 2021, the service — a part of Azure Cognitive Services — provided enterprise-tailored access to OpenAI’s API through the Azure platform for applications like lan… [+2793 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Kyle Wiggers",
+      "title": "Microsoft announces Syntex, a set of automated document and data processing services",
+      "description": "At Ignite, Microsoft introduced Microsoft Syntex, a set of automation and AI capabilities for document processing and data extraction.",
+      "url": "https://techcrunch.com/2022/10/12/microsoft-announces-syntex-a-set-of-automated-document-and-data-processing-services/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/Microsoft-e1658216731934.jpg?resize=1200,675",
+      "publishedAt": "2022-10-10T21:53:18Z",
+      "content": "Two years ago, Microsoft debuted SharePoint Syntex, which leverages AI to automate the capture and classification of data from documents — building on SharePoints existing services. Today marks the e… [+4696 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Kyle Wiggers",
+      "title": "Microsoft launches new security services aimed at protecting code in the cloud",
+      "description": "Microsoft announced two new security services aimed at detecting and remediating issues with code across cloud environments.",
+      "url": "https://techcrunch.com/2022/10/12/microsoft-launches-new-security-services-aimed-at-protecting-code-in-the-cloud/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-605772798.jpg?resize=1200,900",
+      "publishedAt": "2022-10-10T17:34:09Z",
+      "content": "At its Ignite conference today, Microsoft announced Defender Cloud Security Posture Management and Defender for DevOps, two new offerings within the company’s Defender for Cloud service (previously C… [+3487 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Kyle Wiggers",
+      "title": "Thanks to AI, you can now create automations in Power Automate by simply describing them",
+      "description": "At Ignite 2022, Microsoft debuted a new feature that leverages OpenAI's Codex AI system to streamline workflow creation in Power Automate.",
+      "url": "https://techcrunch.com/2022/10/12/2420274/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1354846583.jpeg?resize=1200,900",
+      "publishedAt": "2022-10-06T21:20:14Z",
+      "content": "Power Automate, Microsoft’s Power Platform service that helps users create workflows between apps, is getting new AI smarts. During its Ignite conference, Microsoft rolled out capabilities powered by… [+3265 chars]"
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=c0a075fff03a471681971b3f0ee3b265&page=1&pageSize=${this.props.pageSize}`
+
+
+
+https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=c0a075fff03a471681971b3f0ee3b265&page=${this.state.page+1}&pageSize=${this.props.pageSize}
